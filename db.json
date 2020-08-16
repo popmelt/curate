@@ -48,6 +48,55 @@
       "mediaYear": "1976",
       "mediaImage": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,658,1000_AL_.jpg",
       "fromUser": "Andrew Farr"
+    },
+        {
+      "id": "01",
+      "mediaType": "watch",
+      "mediaTitle": "Midsommar",
+      "mediaYear": "2019",
+      "mediaImage": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "fromUser": "Andrew Farr"
+    },
+
+    {
+      "id": "02",
+      "mediaType": "watch",
+      "mediaTitle": "American History X",
+      "mediaYear": "1998",
+      "mediaImage": "https://m.media-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+      "fromUser": "Andrew Farr"
+    },
+    {
+      "id": "00",
+      "mediaType": "watch",
+      "mediaTitle": "Friday",
+      "mediaYear": "1995",
+      "mediaImage": "https://m.media-amazon.com/images/M/MV5BYmEwNjNlZTUtNzkwMS00ZTlhLTkyY2MtMjM2MzlmODQyZGVhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+      "fromUser": "Andrew Farr"
+    },
+    {
+      "id": "00",
+      "mediaType": "watch",
+      "mediaTitle": "Candy",
+      "mediaYear": "2006",
+      "mediaImage": "https://m.media-amazon.com/images/M/MV5BNTgwNzliODYtOWI2Yy00OTFhLWExZjgtNTdjNjMzOTAyN2JmXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+      "fromUser": "Andrew Farr"
+    },
+    {
+      "id": "00",
+      "mediaType": "watch",
+      "mediaTitle": "Higher Learning",
+      "mediaYear": "1995",
+      "mediaImage": "https://m.media-amazon.com/images/M/MV5BOWFlM2FkM2YtZWFmMC00YjRlLThhNjAtYTY5MDQ3MDFkMDM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY999_CR0,0,672,999_AL_.jpg",
+      "fromUser": "Andrew Farr"
+    },
+    {
+      "id": "00",
+      "mediaType": "watch",
+      "mediaTitle": "Taxi Driver",
+      "mediaYear": "1976",
+      "mediaImage": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,658,1000_AL_.jpg",
+      "fromUser": "Andrew Farr"
     }
   ]
 }
