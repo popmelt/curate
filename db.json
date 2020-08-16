@@ -1,0 +1,21 @@
+{
+  "media": [
+    {
+      "id": "01",
+      "mediaType": "watch",
+      "mediaTitle": "Midsommar",
+      "mediaYear": "2019",
+      "mediaImage": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "fromUser": "Andrew Farr"
+    },
+
+    {
+      "id": "02",
+      "mediaType": "watch",
+      "mediaTitle": "American History X",
+      "mediaYear": "2002",
+      "mediaImage": "https://m.media-amazon.com/images/M/MV5BMTkwOTU5MTA2M15BMl5BanBnXkFtZTYwMjYyNTc3._V1_.jpg",
+      "fromUser": "Andrew Farr"
+    }
+  ]
+}
